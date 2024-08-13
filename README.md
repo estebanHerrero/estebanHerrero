@@ -1,3 +1,4 @@
+<div align="center">
 # Esteban Herrero
 **Diseñador Gráfico & Desarrollador Web**
 
@@ -17,4 +18,4 @@ Soy un apasionado por la creación de experiencias digitales. Me encanta combina
 ### Contactos
 * **Correo:** herstevendev@gmail.com
 * **Instagram:** stevendev18
-
+</div>
