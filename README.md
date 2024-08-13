@@ -1,6 +1,9 @@
 # Esteban Herrero
 **Diseñador Gráfico & Desarrollador Web**
 
+![Tu Logo](profilegit.jpg)
+
+
 ### Acerca de mí
 Soy un apasionado por la creación de experiencias digitales. Me encanta combinar mi creatividad con mis habilidades técnicas para desarrollar productos atractivos y funcionales.
 
