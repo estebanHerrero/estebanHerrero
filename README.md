@@ -2,7 +2,7 @@
 ** Esteban Herrero ** 
 # Diseñador Gráfico & Desarrollador Web
 
-![Tu Logo](profilegit.jpg)
+![Tu Logo](logotipo.png)
 
 
 ### Acerca de mí
