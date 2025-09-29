@@ -1,6 +1,6 @@
 
 ** Esteban Herrero ** 
-# Diseñador UX/UI & Desarrollador Web
+# Diseñador UX/UI & Desarrollador Web/Mobile
 
 ![Tu Logo](logotipo.png)
 
